@@ -7,10 +7,10 @@ for N = 3 the pattern will be
 3 3 3 2 2 2 1 1 1
 3 3 2 2 1 1
 3 2 1
+Instead of printing new line print a "$" without quotes.
 */
 void printPat(int n)
 {
-//Your code here
    int k=n;
    while(k)
    {
